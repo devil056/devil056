@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devil056
 - 👀 I’m interested in ... Data Science, Web application building
-- 🌱 I’m currently learning ... JavaScript, Typescript with the Frameworks React and Vue
+- 🌱 I’m currently learning ... Java,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... murari0418@gmail.com
 
