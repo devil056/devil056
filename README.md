@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devil056
-- 👀 I’m interested in ... Data Science, Web application building
+- 👀 I’m interested in ... Data Science, Web application building and Cyber Security
 - 🌱 I’m currently learning ... Java,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... murari0418@gmail.com
